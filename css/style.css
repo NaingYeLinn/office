@@ -1,0 +1,15 @@
+/* terminal-Box Collection */
+.terminalbox{
+    border-radius: 10px;
+    background-color: rgba(7, 7, 7, 0.75);
+    min-height: 200px;
+}
+/* Padding Collection */
+.p{
+    margin:10%;
+}
+
+.tab{
+    border-radius: 10px 10px 0 0;
+    background-color:rgb(81, 78, 78);
+}
